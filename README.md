@@ -1,5 +1,5 @@
 # Git_Course
-for elzero web scool 
+for elzero web school 
 
 
 ## project Notes
